@@ -1,0 +1,19 @@
+	Welcome Home Reatil Shop
+ Bill Number : 2327
+ Customer Name : Abc
+ Phone Number : 9876543219
+ *************************************
+ Products		QTY		Price
+ *************************************
+ Face Soap		2		240
+ Face Wash		2		120
+ Face Creem		3		120
+ Daal			1		120
+ Papasi			2		120
+ Limca			5		200
+ *************************************
+ Cosmetic Tax			Rs. 30.0
+ Grocery Tax			Rs. 6.0
+ Cold Drink Tax			Rs. 32.0
+ Total Bill Is : 			Rs. 1108.0
+ *************************************

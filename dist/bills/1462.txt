@@ -1,0 +1,31 @@
+	Welcome Home Reatil Shop
+ Bill Number : 1462
+ Customer Name : Vinayak Nagar
+ Phone Number : 7486869639
+ *************************************
+ Products		QTY		Price
+ *************************************
+ Bath Soap		1		40
+ Face Soap		2		240
+ Face Wash		3		180
+ Face Creem		4		160
+ Hair Wash		5		200
+ Hair Creem		6		240
+ Suger			7		840
+ Daal			8		960
+ Tea			9		540
+ Wheat			10		400
+ Coffee			11		440
+ Salt			12		480
+ Maza			13		1560
+ Coca_Cola		14		1680
+ Papasi			15		900
+ Red Bull		16		640
+ Limca			17		680
+ Frooti			18		720
+ *************************************
+ Cosmetic Tax			Rs. 61.0
+ Grocery Tax			Rs. 183.0
+ Cold Drink Tax			Rs. 618.0
+ Total Bill Is : 			Rs. 11922.0
+ *************************************
